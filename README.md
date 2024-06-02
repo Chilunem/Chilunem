@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Chilunem 
+BIO =  👋 Hi, I’m Jesse Chilunem Michael 
 
 As a Business Intelligence / Data Analyst with a passion for uncovering the stories hidden within data, I thrive on transforming complex datasets into actionable insights that drive strategic decisions. With a keen eye for detail and a relentless curiosity, I am dedicated to exploring innovative ways data can be leveraged to solve real-world problems and uncover opportunities for growth.
 
@@ -12,4 +12,7 @@ My enthusiasm for data is matched by my personable demeanor, making me a collabo
 Driven by an eagerness to learn new data coding languages and build out exceptional projects, I am committed to continuously expanding my skill set in my pursuit to become a leading data scientist. Let's connect and explore how we can turn data into a powerful asset for your organization!
 
 - 📫 You can reach me on all social media platforms @chilunem and my email is jceemykel@gmail.com
-- ⚡ Fun facts; I am also an aspiring Designer working on my design company I s A a C 
+- ⚡ Fun facts; I am also an aspiring Designer working on my design company I s A a C
+
+  print (BIO)
+  
