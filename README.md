@@ -1,6 +1,6 @@
 BIO =  👋 Hi, I’m Jesse Chilunem Michael 
 
-i started as a Business Intelligence / Data Analyst with a passion for uncovering the stories hidden within data, I thrive on transforming complex datasets into actionable insights that drive strategic decisions. With a keen eye for detail and a relentless curiosity, I am dedicated to exploring innovative ways data can be leveraged to solve real-world problems and uncover opportunities for growth.
+i started as Data Analyst with a passion for uncovering the stories hidden within data, I thrive on transforming complex datasets into actionable insights that drive strategic decisions. With a keen eye for detail and a relentless curiosity, I am dedicated to exploring innovative ways data can be leveraged to solve real-world problems and uncover opportunities for growth.
 
 - 👀 I’m interested in all things Data and Information utilization 
 - 🌱 I’m currently a Business Intelligence / Data Analyst working on becoming a data scientist
